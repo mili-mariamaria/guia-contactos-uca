@@ -1,0 +1,15 @@
+
+GUÍA RÁPIDA DE INSTALACIÓN DE LA APP - GUÍA DE CONTACTOS UCA ROSARIO
+
+1. Abrí el archivo llamado 'index.html' haciendo doble clic (funciona mejor con Google Chrome).
+2. En la parte superior o inferior del navegador, tocá los 3 puntitos (menú).
+3. Seleccioná la opción 'Agregar a pantalla de inicio'.
+4. ¡Listo! Ya tenés la app instalada con el ícono de la UCA.
+
+Recomendaciones:
+✅ Usá Google Chrome o Microsoft Edge.
+✅ Funciona también sin internet después de abrirla una vez.
+✅ No necesita usuario ni contraseña.
+
+Cualquier duda, escribí a vidauniversitariaros@uca.edu.ar o al WhatsApp institucional.
+
